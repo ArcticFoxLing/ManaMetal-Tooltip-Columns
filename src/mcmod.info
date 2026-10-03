@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "manametaltooltipcolumns",
+    "name": "ManaMetal Tooltip Columns",
+    "description": "Split overflowing ManaMetal item tooltips into adjacent panels, retaining colored attributes, icons and gem descriptions.",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "authorList": ["Local"],
+    "dependencies": []
+  }
+]
